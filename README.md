@@ -1,7 +1,7 @@
 # JobFishApp
 A responsive full stack job board app that allows users to read job posts and be able to create an account in order to post job descriptions, allowing options to update and delete their own job posts.
 
-[Live Link](https://job-board-app-mern.netlify.app/)
+[Live Link](https://job-board-frontend-deployment.vercel.app/)
 
 ## Technologies
 
@@ -25,6 +25,4 @@ A responsive full stack job board app that allows users to read job posts and be
 - Material UI for building UI and usage of TypeScript.
 - Fully responsive across devices for optimal user experience.
 
-#### Note
 
-Backend server down due to Render changing to paid plans so there will be no jobs displayed.
